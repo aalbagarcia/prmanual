@@ -655,3 +655,9 @@
 		#footer a {
 			color: inherit;
 		}
+
+/* FAQ */
+	p.faq {
+		color: inherit;
+		margin: 0 0 2em 0;
+	}
